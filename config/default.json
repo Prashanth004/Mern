@@ -1,0 +1,7 @@
+{
+    "PORT": 4000,
+    "JWT_SECRET": "rutnviprojectissoawesome",
+    "JWT_EXPIRY": 7200000,
+    "JWT_ISSUER": "citizen-journal",
+    "JWT_AUDIENCE": "citizen-journal-web"
+}
